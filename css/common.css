@@ -146,7 +146,6 @@ footer>p{
 /*start_up*/
 .start_up{
   position: fixed;
-  
   bottom: 0;
   width: 100%;
   height: 140px;
@@ -156,7 +155,8 @@ footer>p{
 }
 .start_up .inner{
   position: relative;
-  margin-left: 150px;
+  width: 1200px;
+  margin: auto;
 }
 .start_up p{
   display: inline-block;

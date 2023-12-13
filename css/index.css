@@ -1,7 +1,9 @@
 /*main_visual*/
 .main_visual{
   position: relative;
-  width: 100%;
+  width: 1920px;
+  
+  margin: auto;
   overflow: hidden;
 }
 .main_visual ul{
